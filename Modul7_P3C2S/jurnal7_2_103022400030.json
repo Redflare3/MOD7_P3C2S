@@ -1,0 +1,27 @@
+{
+    "watchlistName": "chillin",
+    "createdBy": "Kelompok p3c2s",
+    "movies": [
+        {
+            "id": "F101",
+            "title": "Interstellar",
+            "year": 1999,
+            "genre": "Action",
+            "rating": 9.5
+        },
+        {
+            "id": "F102",
+            "title": "Exhuma",
+            "year": 2019,
+            "genre": "Thriller",
+            "rating": 8.5
+        },
+        {
+            "id": "F103",
+            "title": "Na Willa",
+            "year": 2025,
+            "genre": "Superhero",
+            "rating": 8.0
+        }
+    ]
+}
