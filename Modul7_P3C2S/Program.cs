@@ -6,6 +6,8 @@ class main
     {
         FilmFavorit_103022400075 ff = new FilmFavorit_103022400075();
         ff.ReadJson();
+        WatchList_103022400075 wl = new WatchList_103022400075();
+        wl.ReadJson();
     }
 
 
