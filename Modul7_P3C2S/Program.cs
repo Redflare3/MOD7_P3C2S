@@ -8,6 +8,8 @@ class main
         ff.ReadJson();
         WatchList_103022400075 wl = new WatchList_103022400075();
         wl.ReadJson();
+        GenreDictionary_103022400075 gd = new GenreDictionary_103022400075();
+        gd.ReadJson();
     }
 
 
