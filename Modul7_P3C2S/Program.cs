@@ -6,5 +6,6 @@ class main
     {
         FilmFavorit_103022400030 film1 = new FilmFavorit_103022400030();
         film1.ReadJSON();
+        watc
     }
 }
