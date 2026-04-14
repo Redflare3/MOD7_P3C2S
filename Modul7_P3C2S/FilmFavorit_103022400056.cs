@@ -4,7 +4,7 @@ using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace MOD7_P3C2S
+namespace Modul7_P3C2S
 {
     internal class FilmFavorit_103022400056
     {

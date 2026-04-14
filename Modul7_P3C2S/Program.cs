@@ -1,4 +1,4 @@
-﻿using MOD7_P3C2S;
+﻿using Modul7_P3C2S;
 
 class main
 {
